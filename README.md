@@ -1,10 +1,12 @@
 # Advanced 24/7 Radio | WAITINGROOM | WITH PLAYLISTS
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/tVWrU5PWZV)
+
+## [Add My Bot To Your Server](https://discord.com/oauth2/authorize?client_id=856953042029379604&scope=bot&permissions=8)
 
 ## Installation | How to use the Bot
 
- **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
+ **1.** Install [node.js v12+](https://nodejs.org/en/download/) or higher
 
  **2.** Download this repo and unzip it    |    or git clone it
 
